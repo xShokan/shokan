@@ -40,3 +40,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 classDiagram
 d --> a
 ```
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Rats" : 35
+```
