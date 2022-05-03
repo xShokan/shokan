@@ -1,5 +1,7 @@
 theme: jekyll-theme-hacker
 
+plugins:
+  - jekyll-spaceship
 # Where things are
 jekyll-spaceship:
   # default enabled processors
